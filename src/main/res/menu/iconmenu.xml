@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menu_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home"/>
+
+    <item android:id="@+id/menu_signup"
+        android:icon="@drawable/ic_baseline_play_arrow_24"
+        android:title="Sign Up"/>
+
+    <item android:id="@+id/menu_signin"
+        android:icon="@drawable/ic_baseline_keyboard_arrow_up_24"
+        android:title="Sign In"/>
+
+    <item android:id="@+id/menu_termsandconditions"
+        android:icon="@drawable/ic_baseline_bookmark_24"
+        android:title="Terms And Conditions"/>
+
+    <item android:id="@+id/menu_myprofile"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="My Profile"/>
+
+    <item android:id="@+id/menu_aboutus"
+        android:icon="@drawable/ic_baseline_chat_bubble_24"
+        android:title="About Us"/>//navigation activity over
+
+
+</menu>
